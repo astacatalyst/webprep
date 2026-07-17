@@ -1,0 +1,50 @@
+@import url('https://fonts.google.com/specimen/Young+Serif');
+@import url('https://fonts.google.com/specimen/Outfit');
+
+
+
+h1{
+    color:black;
+    font-weight:400;
+
+}
+
+h4{
+    color:#7b284f;
+}
+
+h2{
+    color:#854632;
+}
+
+body{
+    background-color:#f2e9e4;
+    font-family:Outfit;
+}
+
+.container{
+    background-color:white;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.container2{
+    background-color:#fff5fa;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+h1,h4{
+    font-family:'young serif', serif;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
