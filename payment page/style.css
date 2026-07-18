@@ -27,3 +27,14 @@ body{
     height:auto;
     border-radius: 10px;
 }
+
+.price{
+    margin-top:30px;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: darkgreen;
+    border-radius: 10px;
+    margin-right: 20px;
+    color: white;
+    width: 200px;
+}
