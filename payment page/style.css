@@ -1,10 +1,29 @@
 .container1{
     background-color:white;
+    width:50%;
     margin: 0 auto;
-    max-width: 400px;
     padding:20px;
+    display:flex;
+    flex-direction: row;
+    gap: 20px;
+    border-radius: 20px;
 }
 
 body{
     background-color:#cfb6a9;
+}
+
+.product-details{
+    margin-right:20px;
+    padding :20px;
+    align-items: center;
+    gap: 10px;
+
+
+}
+
+.product-image{
+    width:50%;
+    height:auto;
+    border-radius: 10px;
 }
