@@ -5,14 +5,20 @@
     justify-content: center;
     height: 100vh;
     background-color: #f5f5f5;
+    border: 3px solid black;
+    border-radius: 10px;
 }
 
 .insidecontainer{
     background-color: rgb(225, 102, 196);
+    border-radius: 10px;
+    border: 3px solid black;
     
 }
 
 .webcard{
     background-color:#f5f5f5;
     align-items: center;
+    border: 2px solid black;
+    border-radius: 4px;
 }
